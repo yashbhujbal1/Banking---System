@@ -1,2 +1,3 @@
 # Banking---System
-Simple Dynamic Website
+Simple Dynamic Website for banking
+Created Using HTML, CSS and Java Script.
